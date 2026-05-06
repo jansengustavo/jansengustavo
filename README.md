@@ -14,7 +14,7 @@ I have a strong interest in understanding how systems work in practice and in co
 
 `Continuously Learning and Improving In:`
 
-<table border="0" cellspacing="0" cellpadding="5">
+<table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/></td>
