@@ -14,12 +14,14 @@ I have a strong interest in understanding how systems work in practice and in co
 
 `Continuously Learning and Improving In:`
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=k0mhEXozIpG1&format=png&color=000000" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="50" height="50"/>
-</p>
+<table border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50" height="50"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" width="50" height="50"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=k0mhEXozIpG1&format=png&color=000000" width="50" height="50"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="50" height="50"/></td>
+  </tr>
+</table>
