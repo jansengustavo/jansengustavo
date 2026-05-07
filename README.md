@@ -2,7 +2,7 @@
 
 # :computer: Gustavo Jansen Butenas
 
-My name is Gustavo Jansen Butenas, a 20-year-old Computer Science student born and raised in Curitiba, Brazil. From an early age, technology has been a constant passion, especially due to its rapid evolution and the direct impact it has on society. Currently seeking growth in the Software Development field and an internship opportunity to apply academic knowledge, gain practical experience, and develop professionally in a technological environment.
+My name is Gustavo Jansen Butenas, a 20-year-old PUCPR Computer Science student born and raised in Curitiba, Brazil. From an early age, technology has been a constant passion, especially due to its rapid evolution and the direct impact it has on society. Currently seeking growth in the Software Development field and an internship opportunity to apply academic knowledge, gain practical experience, and develop professionally in a technological environment.
 
 
 
