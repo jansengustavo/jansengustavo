@@ -16,30 +16,18 @@ I have a strong interest in understanding how systems work in practice and in co
 
 <img src="https://img.shields.io/badge/%3E_Projetos_em-238636?style=for-the-badge" />
 <br/>
-<img alt="Python" title="Python" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img alt="Java" title="Java" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img alt="MySQL" title="MySQL" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img alt="C" title="C" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img alt="TypeScript" title="TypeScript" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img alt="Node.js" title="Node.js" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img alt="React" title="React" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img alt="SQL" title="SQL" width="45" height="45" style="padding-right: 10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+<img alt="Python" title="Python" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img alt="Java" title="Java" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><img alt="MySQL" title="MySQL" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><img alt="C" title="C" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /><img alt="TypeScript" title="TypeScript" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><img alt="Node.js" title="Node.js" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /><img alt="React" title="React" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><img alt="SQL" title="SQL" width="45" height="45" style="padding-right: 10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 <br/>
 <br/>
 
 <img src="https://img.shields.io/badge/%3E_Ferramentas-238636?style=for-the-badge" />
 <br/>
-<img alt="Git" title="Git" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="Linux" title="Linux" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img alt="PowerShell" title="PowerShell" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+<img alt="Git" title="Git" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img alt="Linux" title="Linux" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /><img alt="PowerShell" title="PowerShell" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <br/>
 <br/>
 
 <img src="https://img.shields.io/badge/%3E_Em_Desenvolvimento-238636?style=for-the-badge" />
 <br/>
-<img alt="C++" title="C++" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img alt="Spring Boot" title="Spring Boot" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img alt="ASP.NET" title="ASP.NET" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img alt="MongoDB" title="MongoDB" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img alt="C++" title="C++" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /><img alt="Spring Boot" title="Spring Boot" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /><img alt="ASP.NET" title="ASP.NET" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /><img alt="MongoDB" title="MongoDB" width="45" height="45" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <br/>
 <br/>
