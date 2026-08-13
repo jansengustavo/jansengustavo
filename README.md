@@ -14,37 +14,38 @@ I have a strong interest in understanding how systems work in practice and in co
 
 **`Continuously Learning and Improving In:`**
 
-### Tecnologias
-
-<h3><code>// Projetos em</code></h3>
+```diff
++ Projetos em
+```
 <br/>
-<img align="left" alt="Python" title="Python" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Java" title="Java" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="100px" style="padding-right: 15px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
-<img align="left" alt="C" title="C" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" title="React" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<br/>
-<br/>
-<br/>
-
-<h3><code>// Ferramentas</code></h3>
-<br/>
-<img align="left" alt="Git" title="Git" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Linux" title="Linux" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="PowerShell" title="PowerShell" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-<br/>
+<img align="left" alt="Python" title="Python" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" title="Java" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="45px" style="padding-right: 10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+<img align="left" alt="C" title="C" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" title="React" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <br/>
 <br/>
 
-<h3><code>// Em Desenvolvimento</code></h3>
+```diff
++ Ferramentas
+```
 <br/>
-<img align="left" alt="C++" title="C++" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Spring Boot" title="Spring Boot" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img align="left" alt="ASP.NET" title="ASP.NET" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="MongoDB" title="MongoDB" width="100px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Git" title="Git" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="PowerShell" title="PowerShell" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <br/>
+<br/>
+
+```diff
++ Em Desenvolvimento
+```
+<br/>
+<img align="left" alt="C++" title="C++" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="ASP.NET" title="ASP.NET" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="MongoDB" title="MongoDB" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <br/>
 <br/>
