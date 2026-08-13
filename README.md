@@ -14,14 +14,31 @@ I have a strong interest in understanding how systems work in practice and in co
 
 `Continuously Learning and Improving In:`
 
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>          
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/></td>
-    <td><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50" height="50"/></td>
-    <td><img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" width="50" height="50"/></td>
-    <td><img src="https://img.icons8.com/?size=100&id=k0mhEXozIpG1&format=png&color=000000" width="50" height="50"/></td>
-    <td><img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="50" height="50"/></td>
-  </tr>
-</table>
+### Tecnologias
+
+**Domínio**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+**Ferramentas**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+</p>
+
+**Em Desenvolvimento**
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
