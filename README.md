@@ -14,39 +14,115 @@ I have a strong interest in understanding how systems work in practice and in co
 
 <img src="https://img.shields.io/badge/%3E_Projetos_em-238636?style=for-the-badge" />
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <img alt="Python" title="Python" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Java" title="Java" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="MySQL" title="MySQL" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="C" title="C" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="Node.js" title="Node.js" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="React" title="React" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="SQL" title="SQL" width="45" height="45" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>Python</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>Java</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>C</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>React</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="45" height="45" />
+      <br />
+      <sub><b>SQL</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br/>
 <br/>
 
 <img src="https://img.shields.io/badge/%3E_Ferramentas-238636?style=for-the-badge" />
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <img alt="Git" title="Git" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="Linux" title="Linux" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="PowerShell" title="PowerShell" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>Git</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>Linux</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>PowerShell</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br/>
 <br/>
 
 <img src="https://img.shields.io/badge/%3E_Em_Desenvolvimento-238636?style=for-the-badge" />
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <img alt="C++" title="C++" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Spring Boot" title="Spring Boot" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img alt="ASP.NET" title="ASP.NET" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="MongoDB" title="MongoDB" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>C++</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>ASP.NET</b></sub>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" />
+      <br />
+      <sub><b>MongoDB</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
