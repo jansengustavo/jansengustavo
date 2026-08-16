@@ -15,9 +15,9 @@ I have a strong interest in understanding how systems work in practice and in co
 <img src="https://img.shields.io/badge/%3E_Projetos_em-238636?style=for-the-badge" />
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img alt="Python" title="Python" width="45" height="45" style="margin-right: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Java" title="Java" width="45" height="45" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="MySQL" title="MySQL" width="45" height="45" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Python" title="Python" width="65" height="65" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" width="65" height="65" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="MySQL" title="MySQL" width="65" height="65" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="C" title="C" width="45" height="45" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="TypeScript" title="TypeScript" width="45" height="45" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Node.js" title="Node.js" width="45" height="45" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
