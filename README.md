@@ -18,7 +18,7 @@ I have a strong interest in understanding how systems work in practice and in co
   <img alt="Python" title="Python" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Java" title="Java" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="MySQL" title="MySQL" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="C" title="C" width="45" height="45" src="https://icons8.com.br/icon/40670/programa%C3%A7%C3%A3o-c" />
+  <img alt="C" title="C" width="45" height="45" src="[https://icons8.com.br/icon/40670/programa%C3%A7%C3%A3o-c](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)" />
   <img alt="TypeScript" title="TypeScript" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Node.js" title="Node.js" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="React" title="React" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
